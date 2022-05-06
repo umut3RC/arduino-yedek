@@ -1,0 +1,12 @@
+-sol ön
+pot1 80   ön0 arka180
+
+-sað ön
+pot2 90  ön180 arka0
+
+-sað arka
+pot3 80 ön180 arka0
+
+-sol arka
+pot4 90  ön0 arka180
+
